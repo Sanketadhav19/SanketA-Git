@@ -1,3 +1,5 @@
 Hello Everyone
 How are you?
 Lets learn some concept of Machine Learning.
+linear regression
+logistic regression
