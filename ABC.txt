@@ -3,3 +3,6 @@ How are you?
 Lets learn some concept of Machine Learning.
 linear regression
 logistic regression
+Learn while play
+Lets Rock and earn money
+A repository contains all project files, including the revision history. Already have a project repository elsewhere?
